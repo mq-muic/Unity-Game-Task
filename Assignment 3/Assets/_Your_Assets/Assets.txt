@@ -1,0 +1,1 @@
+The assets that you have created and use in your game should be placed in this folder. Do not put standard assets here.
